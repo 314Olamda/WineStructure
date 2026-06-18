@@ -34,7 +34,7 @@ Wine lees — the yeast-rich sediment from fermentation — release bioactive pe
 - **Epitope mapping** — identify surface-exposed antifungal regions
 - **Docking studies** — target pathogen cell wall proteins in silico
 - **Activity correlation** — link structured vs. disordered regions to experimental bioactivity data (DPPH, MIC assays)
-- **MSCA PROPEPT context** — structural annotation supports CRISPR-engineered yeast peptidomics design
+- **CRISPR context** — structural annotation supports CRISPR-engineered yeast peptidomics design
 
 ---
 
