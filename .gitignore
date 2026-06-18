@@ -1,0 +1,28 @@
+# Pipeline outputs — generated at runtime, not versioned
+output/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Large structure files if accidentally placed at root
+*.pdb
+*.cif
+*.json
